@@ -1,5 +1,5 @@
 # hackerrank-linkedlist-problems
-Accepted JS solutions to the Linked List Problems provided in HackerRank platform.
+Accepted JS solutions to the following Linked List Problems provided in HackerRank platform.
 
 1. Print the Elements of the List
 2. Insert a Node at the Tail of a Linked List
