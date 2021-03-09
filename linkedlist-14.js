@@ -5,7 +5,6 @@
  *     this.next = null;
  * }
  */
-
 /**
  * @param {ListNode} head
  * @return {boolean}
