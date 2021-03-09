@@ -1,5 +1,5 @@
 # hackerrank-linkedlist-problems
-Accepted JS solutions to the following Linked List Problems provided in HackerRank platform.
+Accepted JS solutions to the following Linked List Problems provided in HackerRank / Leetcode platform.
 
 1. Print the Elements of the List
 2. Insert a Node at the Tail of a Linked List
@@ -13,4 +13,8 @@ Accepted JS solutions to the following Linked List Problems provided in HackerRa
 10. Get Node Value
 11. Delete duplicate-value nodes from a sorted linked list
 12. Inserting a Node Into a Sorted Doubly Linked List
-13. Reverse a doubly linked list
+13. Reverse a doubly linked list.
+14. Cycle detection
+15. Palindrome Linked List
+16. Middle of the Linked List
+17. Reverse Linked List II - reverse the nodes between the 2 given positions in a linked list.
