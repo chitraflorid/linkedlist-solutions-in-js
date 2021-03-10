@@ -17,7 +17,7 @@ Accepted JS solutions to the following Linked List Problems provided in HackerRa
 14. Cycle detection
 15. Palindrome Linked List
 16. Middle of the Linked List
-17. Reverse Linked List II - reverse the nodes between the 2 given positions in a linked list.
-18.Intersection of Two Linked Lists
-19.Reorder Linkedlist
-20.Remove Nth Node From End of List
+17. Reverse Linked List - reverse the nodes between the 2 given positions in a linked list.
+18. Intersection of Two Linked Lists
+19. Reorder Linkedlist
+20. Remove Nth Node From End of List
