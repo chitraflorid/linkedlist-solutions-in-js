@@ -1,4 +1,4 @@
-# Hackerrank-/Leetcode linkedlist-problems
+# Hackerrank/Leetcode linkedlist-problems
 Accepted JS solutions to the following Linked List Problems provided in HackerRank / Leetcode platform.
 
 1. Print the Elements of the List
